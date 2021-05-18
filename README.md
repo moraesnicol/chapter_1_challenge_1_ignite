@@ -23,7 +23,7 @@
 
 # :coffee: About
 
-Este foi o primeiro desafio do Chapter I da trilha Flutter no Ignite da RocketSet.
+Este foi o primeiro desafio do Chapter I da trilha Flutter no Ignite da RocketSeat. O desafio era reestruturar o aplicativo construído durante as aulas, separando os widgets que estão no arquivo main.dart afim de melhorar a compreensão do código, isolando as responsabilidades em diferentes arquivos.
 
 
 
