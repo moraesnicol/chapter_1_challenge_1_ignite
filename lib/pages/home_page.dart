@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'home/widgets/app_bar.dart';
+
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
@@ -11,10 +13,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Contador"),
-        centerTitle: true,
-      ),
+      appBar: AppBarWidget(),
       body: Center(
         child: Text(
           "Contagem: $count",
@@ -32,3 +31,4 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+
