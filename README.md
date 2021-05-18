@@ -35,8 +35,11 @@ Este foi o primeiro desafio do Chapter I da trilha Flutter no Ignite da RocketSe
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/movies/blob/master/movies.gif" >
+   <img src="https://github.com/moraesnicol/chapter_1_challenge_1_ignite/blob/master/Screen%20Shot%202021-05-18%20at%2001.53.37.png" >
+</div>
 
+<div align="center">
+   <img src="https://github.com/moraesnicol/chapter_1_challenge_1_ignite/blob/master/Screen%20Shot%202021-05-18%20at%2001.53.56.png" >
 </div>
 
 # :rocket: Technologies
